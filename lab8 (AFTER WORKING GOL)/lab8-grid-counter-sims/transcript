@@ -1,0 +1,21 @@
+# Reading C:/intelFPGA_lite/17.0/modelsim_ase/tcl/vsim/pref.tcl
+do runlab.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 18:20:47 on May 31,2024
+# vlog -reportprogress 300 ./grid.sv 
+# -- Compiling module grid
+# ** Error (suppressible): (vlog-7033) ./grid.sv(41): Variable 'candidate_blinkers' driven in a combinational block, may not be driven by any other process. See ./grid.sv(25).
+# ** Error (suppressible): (vlog-7033) ./grid.sv(49): Variable 'candidate_blinkers' driven in a combinational block, may not be driven by any other process. See ./grid.sv(25).
+# ** Error (suppressible): (vlog-7033) ./grid.sv(55): Variable 'candidate_blinkers' driven in a combinational block, may not be driven by any other process. See ./grid.sv(25).
+# ** Error (suppressible): (vlog-7033) ./grid.sv(66): Variable 'confirmed_blinkers' driven in a combinational block, may not be driven by any other process. See ./grid.sv(26).
+# ** Error (suppressible): (vlog-7033) ./grid.sv(72): Variable 'confirmed_blinkers' driven in a combinational block, may not be driven by any other process. See ./grid.sv(26).
+# ** Warning: ./grid.sv(64): (vlog-2182) 'confirmed_blinkers' might be read before written in always_comb or always @* block.
+# -- Compiling module grid_testbench
+# End time: 18:20:47 on May 31,2024, Elapsed time: 0:00:00
+# Errors: 5, Warnings: 1
+# ** Error: C:/intelFPGA_lite/17.0/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./runlab.do line 7
+# C:/intelFPGA_lite/17.0/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog "./grid.sv""

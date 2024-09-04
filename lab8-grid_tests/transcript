@@ -1,0 +1,31 @@
+# Reading C:/intelFPGA_lite/17.0/modelsim_ase/tcl/vsim/pref.tcl
+do runlab.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 18:40:11 on May 31,2024
+# vlog -reportprogress 300 ./grid.sv 
+# -- Compiling module grid
+# -- Compiling module grid_testbench
+# 
+# Top level modules:
+# 	grid_testbench
+# End time: 18:40:11 on May 31,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -voptargs=""+acc"" -t 1ps -lib work grid_testbench 
+# Start time: 18:40:11 on May 31,2024
+# Loading sv_std.std
+# Loading work.grid_testbench
+# Loading work.grid
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: perryz0  Hostname: LAPTOP-ESJEFG6K  ProcessID: 15696
+#           Attempting to use alternate WLF file "./wlft37e66y".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlft37e66y
+# .main_pane.wave.interior.cs.body.pw.wf
+# .main_pane.structure.interior.cs.body.struct
+# .main_pane.objects.interior.cs.body.tree
+# ** Note: $stop    : ./grid.sv(182)
+#    Time: 10050 ps  Iteration: 1  Instance: /grid_testbench
+# Break in Module grid_testbench at ./grid.sv line 182
+# End time: 20:44:44 on May 31,2024, Elapsed time: 2:04:33
+# Errors: 0, Warnings: 2

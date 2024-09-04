@@ -1,0 +1,760 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/UW Spring 2024 Software/E E 271/ee271labs/lab1
+vcenterLight
+Z0 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z1 !s110 1715300896
+!i10b 1
+!s100 JCo9L<0[D@Bh:AUgTl5Q53
+IeUiDEN6jDi`d54857Wj?K2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 !s105 centerLight_sv_unit
+S1
+Z4 dC:/UW Sophomore Year/UW Spring 2024 Software/E E 271/ee271labs/lab6
+Z5 w1715298813
+Z6 8./centerLight.sv
+Z7 F./centerLight.sv
+L0 1
+Z8 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z9 !s108 1715300896.000000
+Z10 !s107 ./centerLight.sv|
+Z11 !s90 -reportprogress|300|./centerLight.sv|
+!i113 1
+Z12 tCvgOpt 0
+ncenter@light
+vcenterLight_testbench
+R0
+R1
+!i10b 1
+!s100 hS<^1[i8Dgd>do;DTRU=B2
+ImCS5N`4zaJ`F:dQiGcWNB1
+R2
+R3
+S1
+R4
+R5
+R6
+R7
+L0 44
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+ncenter@light_testbench
+vclock_divider
+R0
+Z13 !s110 1717206579
+!i10b 1
+!s100 FIAn]X@JNWH@3[lAKMB0[2
+Ig?n=;3?iDR>8k]cWJ395B2
+R2
+Z14 !s105 clock_divider_sv_unit
+S1
+Z15 dC:/UW Sophomore Year/UW Spring 2024 Software/E E 271/ee271labs/lab8 files/lab8 (AFTER WORKING GOL)/lab8-blinker-recognition-main
+Z16 w1715889052
+Z17 8./clock_divider.sv
+Z18 F./clock_divider.sv
+L0 2
+R8
+r1
+!s85 0
+31
+Z19 !s108 1717206579.000000
+Z20 !s107 ./clock_divider.sv|
+Z21 !s90 -reportprogress|300|./clock_divider.sv|
+!i113 1
+R12
+vclock_divider_testbench
+R0
+R13
+!i10b 1
+!s100 iR^d7N?Q=PmIE>MQ2I;=S3
+If]UKnfT<z^6hWH6aJih]c0
+R2
+R14
+S1
+R15
+R16
+R17
+R18
+Z22 L0 13
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!i113 1
+R12
+vcontrolUnit
+R0
+R13
+!i10b 1
+!s100 LOf=ciE?G]Q:>0@;hgEON0
+Iia?0O_XbbD3HA>SAI]:h`2
+R2
+!s105 controlUnit_sv_unit
+S1
+R15
+w1717116404
+8./controlUnit.sv
+F./controlUnit.sv
+L0 3
+R8
+r1
+!s85 0
+31
+R19
+!s107 ./controlUnit.sv|
+!s90 -reportprogress|300|./controlUnit.sv|
+!i113 1
+R12
+ncontrol@unit
+vDE1_SoC
+R0
+R13
+!i10b 1
+!s100 WjT`o[SJW>_jj6S;Ehk2;0
+IC44kOBaaBEfWV[`d22CT;0
+R2
+Z23 !s105 DE1_SoC_sv_unit
+S1
+R15
+Z24 w1717206539
+Z25 8./DE1_SoC.sv
+Z26 F./DE1_SoC.sv
+L0 2
+R8
+r1
+!s85 0
+31
+R19
+Z27 !s107 ./DE1_SoC.sv|
+Z28 !s90 -reportprogress|300|./DE1_SoC.sv|
+!i113 1
+R12
+n@d@e1_@so@c
+vDE1_SoC_testbench
+R0
+R13
+!i10b 1
+!s100 h=6N09cIccS53hRg>3D0;1
+Ij;=EdVb2ab0oQ<]fU2^CK0
+R2
+R23
+S1
+R15
+R24
+R25
+R26
+L0 93
+R8
+r1
+!s85 0
+31
+R19
+R27
+R28
+!i113 1
+R12
+n@d@e1_@so@c_testbench
+vgrid
+R0
+R13
+!i10b 1
+!s100 [DBNcfiYd0Dg3aC0^NiJZ3
+IDod<`YiES5P>iM2HB=K;j3
+R2
+Z29 !s105 grid_sv_unit
+S1
+R15
+Z30 w1717198830
+Z31 8./grid.sv
+Z32 F./grid.sv
+L0 2
+R8
+r1
+!s85 0
+31
+R19
+Z33 !s107 ./grid.sv|
+Z34 !s90 -reportprogress|300|./grid.sv|
+!i113 1
+R12
+vgrid_testbench
+R0
+R13
+!i10b 1
+!s100 S9IE>XRdRW1fN98An;9`c3
+ITa`mVzHdn@DDZIPdT_WTC2
+R2
+R29
+S1
+R15
+R30
+R31
+R32
+L0 58
+R8
+r1
+!s85 0
+31
+R19
+R33
+R34
+!i113 1
+R12
+vhazard_lights
+R0
+Z35 !s110 1714640714
+!i10b 1
+!s100 2G1EZTz]=gV<YEM_G4SWB0
+IQYMajX]abN=GFkT1UVJ8E3
+R2
+Z36 !s105 hazard_lights_sv_unit
+S1
+Z37 dC:/UW Sophomore Year/UW Spring 2024 Software/E E 271/ee271labs/lab5
+Z38 w1714640651
+Z39 8./hazard_lights.sv
+Z40 F./hazard_lights.sv
+L0 3
+R8
+r1
+!s85 0
+31
+Z41 !s108 1714640714.000000
+Z42 !s107 ./hazard_lights.sv|
+Z43 !s90 -reportprogress|300|./hazard_lights.sv|
+!i113 1
+R12
+vhazard_lights_testbench
+R0
+R35
+!i10b 1
+!s100 jIjE<20bJG53;0o4;NNmm3
+I4:;Ra]foXCJTQTBMOlIb32
+R2
+R36
+S1
+R37
+R38
+R39
+R40
+L0 62
+R8
+r1
+!s85 0
+31
+R41
+R42
+R43
+!i113 1
+R12
+vlab3
+R0
+!s110 1714089182
+!i10b 1
+!s100 i6aKnT^8`42<d?]Mf:ZC73
+ImQ>V_?Pl[F=U^nBkGg6cf0
+R2
+!s105 lab3_sv_unit
+S1
+Z44 dC:/UW Sophomore Year/UW Spring 2024 Software/E E 271/ee271labs/lab4b
+w1714069070
+8./lab3.sv
+F./lab3.sv
+L0 3
+R8
+r1
+!s85 0
+31
+!s108 1714089182.000000
+!s107 ./lab3.sv|
+!s90 -reportprogress|300|./lab3.sv|
+!i113 1
+R12
+vLEDDriver
+R0
+R13
+!i10b 1
+!s100 JiAHBkK@6c_;:YN4[>j7<3
+ICW^9z;F45c1OgTmP7Ij6d3
+R2
+Z45 !s105 LEDDriver_sv_unit
+S1
+R15
+Z46 w1717051077
+Z47 8./LEDDriver.sv
+Z48 F./LEDDriver.sv
+R22
+R8
+r1
+!s85 0
+31
+R19
+Z49 !s107 ./LEDDriver.sv|
+Z50 !s90 -reportprogress|300|./LEDDriver.sv|
+!i113 1
+R12
+n@l@e@d@driver
+vLEDDriver_Test
+R0
+R13
+!i10b 1
+!s100 7d5<0Kb7WnMbAASRRbV<P3
+I24z]WBdkFVd33ESQ4Ae<Y3
+R2
+R45
+S1
+R15
+R46
+R47
+R48
+L0 34
+R8
+r1
+!s85 0
+31
+R19
+R49
+R50
+!i113 1
+R12
+n@l@e@d@driver_@test
+vLEDDriver_TestPhysical
+R0
+R13
+!i10b 1
+!s100 WjU?EdQdFmD<AcS828m012
+ISWgN:gM:a;Zh2KTzI;7192
+R2
+R45
+S1
+R15
+R46
+R47
+R48
+L0 71
+R8
+r1
+!s85 0
+31
+R19
+R49
+R50
+!i113 1
+R12
+n@l@e@d@driver_@test@physical
+vmeta
+R0
+R1
+!i10b 1
+!s100 nR?C?d3:cFQ?1iZW^M<cR3
+IS3I_HcT?9g5hb<PH78WLg1
+R2
+Z51 !s105 meta_sv_unit
+S1
+R4
+Z52 w1715294181
+Z53 8./meta.sv
+Z54 F./meta.sv
+L0 3
+R8
+r1
+!s85 0
+31
+R9
+Z55 !s107 ./meta.sv|
+Z56 !s90 -reportprogress|300|./meta.sv|
+!i113 1
+R12
+vmeta_testbench
+R0
+R1
+!i10b 1
+!s100 NcTZfI?[IICVmPj2^f>W>2
+IQC[fn8MBR2ZKN^m]5Zl1k0
+R2
+R51
+S1
+R4
+R52
+R53
+R54
+L0 21
+R8
+r1
+!s85 0
+31
+R9
+R55
+R56
+!i113 1
+R12
+vmux2_1
+R0
+Z57 !s110 1712274722
+!i10b 1
+!s100 db@k@fnga:kY6M:UDM?iV1
+IJ>QNS`gdkcliNLo;gQk_83
+R2
+Z58 !s105 mux2_1_sv_unit
+S1
+Z59 dC:/UW Spring 2024 Software/E E 271/ee271labs/lab1a
+Z60 w1712129994
+Z61 8./mux2_1.sv
+Z62 F./mux2_1.sv
+L0 1
+R8
+r1
+!s85 0
+31
+Z63 !s108 1712274722.000000
+Z64 !s107 ./mux2_1.sv|
+Z65 !s90 -reportprogress|300|./mux2_1.sv|
+!i113 1
+R12
+vmux2_1_testbench
+R0
+R57
+!i10b 1
+!s100 AaPWH7@z6J3I9g7Ce@1ED1
+I;eMHfQ<@c56k5bMBE8Am71
+R2
+R58
+S1
+R59
+R60
+R61
+R62
+L0 8
+R8
+r1
+!s85 0
+31
+R63
+R64
+R65
+!i113 1
+R12
+vmux4_1
+R0
+R57
+!i10b 1
+!s100 E7R1Cg6SkhaPO]9<9MDj:0
+I11V?a:nHG07?Y623?jN2j0
+R2
+Z66 !s105 mux4_1_sv_unit
+S1
+R59
+Z67 w1712214988
+Z68 8./mux4_1.sv
+Z69 F./mux4_1.sv
+L0 1
+R8
+r1
+!s85 0
+31
+R63
+Z70 !s107 ./mux4_1.sv|
+Z71 !s90 -reportprogress|300|./mux4_1.sv|
+!i113 1
+R12
+vmux4_1_testbench
+R0
+R57
+!i10b 1
+!s100 ll]I`8AJLAGZRQV>dh12>3
+IB_e]D4J:@kToLMR8MO<5J1
+R2
+R66
+S1
+R59
+R67
+R68
+R69
+L0 12
+R8
+r1
+!s85 0
+31
+R63
+R70
+R71
+!i113 1
+R12
+vnormalLight
+R0
+R1
+!i10b 1
+!s100 Wk<:bDOZKbS2dLU]Af<522
+I^maB8E^V6VDI8kV@L>HU32
+R2
+Z72 !s105 normalLight_sv_unit
+S1
+R4
+Z73 w1715298765
+Z74 8./normalLight.sv
+Z75 F./normalLight.sv
+L0 1
+R8
+r1
+!s85 0
+31
+R9
+Z76 !s107 ./normalLight.sv|
+Z77 !s90 -reportprogress|300|./normalLight.sv|
+!i113 1
+R12
+nnormal@light
+vnormalLight_testbench
+R0
+R1
+!i10b 1
+!s100 SYQfYTabRzXT[:R:0k<WR1
+IF7PSWm2BF=2z;TKLkcZ183
+R2
+R72
+S1
+R4
+R73
+R74
+R75
+L0 45
+R8
+r1
+!s85 0
+31
+R9
+R76
+R77
+!i113 1
+R12
+nnormal@light_testbench
+vpatternCounterDisplay
+R0
+R13
+!i10b 1
+!s100 =eOZm]b?`4l9AIU4MFzKA0
+I;Cm@FId[<CUdPa<ozjj`N0
+R2
+!s105 patternCounterDisplay_sv_unit
+S1
+R15
+w1717184793
+8./patternCounterDisplay.sv
+F./patternCounterDisplay.sv
+L0 2
+R8
+r1
+!s85 0
+31
+R19
+!s107 ./patternCounterDisplay.sv|
+!s90 -reportprogress|300|./patternCounterDisplay.sv|
+!i113 1
+R12
+npattern@counter@display
+vsimple
+R0
+Z78 !s110 1714617163
+!i10b 1
+!s100 kO6AoSW3D`cDagm:oWclh3
+I4@AV[g[X[EmUEil=:PUc>1
+R2
+Z79 !s105 simple_sv_unit
+S1
+R37
+Z80 w1714610743
+Z81 8./simple.sv
+Z82 F./simple.sv
+L0 1
+R8
+r1
+!s85 0
+31
+Z83 !s108 1714617163.000000
+Z84 !s107 ./simple.sv|
+Z85 !s90 -reportprogress|300|./simple.sv|
+!i113 1
+R12
+vsimple_testbench
+R0
+R78
+!i10b 1
+!s100 l7^KWB=<TW85o=]@XWB^e0
+InJMW>TVj<h:;Hm=L1_OV>2
+R2
+R79
+S1
+R37
+R80
+R81
+R82
+L0 33
+R8
+r1
+!s85 0
+31
+R83
+R84
+R85
+!i113 1
+R12
+vupcdisplay
+R0
+!s110 1714089183
+!i10b 1
+!s100 =YiHd1CK7Do[7EWL`ADaK1
+I37H:F5K>3334HSgkZPZco3
+R2
+!s105 upcdisplay_sv_unit
+S1
+R44
+w1714087598
+8./upcdisplay.sv
+F./upcdisplay.sv
+L0 3
+R8
+r1
+!s85 0
+31
+!s108 1714089183.000000
+!s107 ./upcdisplay.sv|
+!s90 -reportprogress|300|./upcdisplay.sv|
+!i113 1
+R12
+vupdateLogic
+R0
+R13
+!i10b 1
+!s100 ;KIbTMFIXF3LWaV3FV0E@2
+IFEl>?eiVUcGmQ?Q54HZVg0
+R2
+!s105 updateLogic_sv_unit
+S1
+R15
+w1717184817
+8./updateLogic.sv
+F./updateLogic.sv
+L0 4
+R8
+r1
+!s85 0
+31
+R19
+!s107 ./updateLogic.sv|
+!s90 -reportprogress|300|./updateLogic.sv|
+!i113 1
+R12
+nupdate@logic
+vuserInput
+R0
+R13
+!i10b 1
+!s100 iYK43YHmU:Gb4D8c;][M>3
+I9FHg]eY7]?LdfiS4RYFS52
+R2
+Z86 !s105 userInput_sv_unit
+S1
+R15
+Z87 w1717143568
+Z88 8./userInput.sv
+Z89 F./userInput.sv
+L0 2
+R8
+r1
+!s85 0
+31
+R19
+Z90 !s107 ./userInput.sv|
+Z91 !s90 -reportprogress|300|./userInput.sv|
+!i113 1
+R12
+nuser@input
+vuserInput_testbench
+R0
+R13
+!i10b 1
+!s100 jeZl1SUG<19:Pm`FDT1H13
+IhI>?302iKcRd9>6NfnXgO3
+R2
+R86
+S1
+R15
+R87
+R88
+R89
+L0 106
+R8
+r1
+!s85 0
+31
+R19
+R90
+R91
+!i113 1
+R12
+nuser@input_testbench
+vvictory
+R0
+R1
+!i10b 1
+!s100 fGAlk26NKD4]Fj8fdT]I<0
+IEES?8Ca4HoGkmLMV8:L;b0
+R2
+Z92 !s105 victory_sv_unit
+S1
+R4
+Z93 w1715297388
+Z94 8./victory.sv
+Z95 F./victory.sv
+L0 1
+R8
+r1
+!s85 0
+31
+R9
+Z96 !s107 ./victory.sv|
+Z97 !s90 -reportprogress|300|./victory.sv|
+!i113 1
+R12
+vvictory_testbench
+R0
+R1
+!i10b 1
+!s100 @DEk?LTfnml`AQ=mO]>cN0
+ITB;bUXFIP>N:G5=W2Q@Xm2
+R2
+R92
+S1
+R4
+R93
+R94
+R95
+L0 55
+R8
+r1
+!s85 0
+31
+R9
+R96
+R97
+!i113 1
+R12

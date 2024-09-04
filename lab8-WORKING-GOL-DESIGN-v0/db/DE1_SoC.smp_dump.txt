@@ -1,0 +1,7 @@
+
+State Machine - |hazard_lights|ps
+Name ps~4 ps~3 ps~2 
+ps.outside 0 0 0 
+ps.center 1 1 1 
+ps.left 0 0 1 
+ps.right 1 0 0 

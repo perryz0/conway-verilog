@@ -1,0 +1,56 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/UW Spring 2024 Software/E E 271/ee271labs/lab1
+vmux2_1
+Z1 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z2 !s110 1712212505
+!i10b 1
+!s100 db@k@fnga:kY6M:UDM?iV1
+IJ>QNS`gdkcliNLo;gQk_83
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 !s105 mux2_1_sv_unit
+S1
+R0
+Z5 w1712129994
+Z6 8./mux2_1.sv
+Z7 F./mux2_1.sv
+L0 1
+Z8 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z9 !s108 1712212504.000000
+Z10 !s107 ./mux2_1.sv|
+Z11 !s90 -reportprogress|300|./mux2_1.sv|
+!i113 1
+Z12 tCvgOpt 0
+vmux2_1_testbench
+R1
+R2
+!i10b 1
+!s100 AaPWH7@z6J3I9g7Ce@1ED1
+I;eMHfQ<@c56k5bMBE8Am71
+R3
+R4
+S1
+R0
+R5
+R6
+R7
+L0 8
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
