@@ -1,8 +1,0 @@
-module invertHEX (HEX0, HEX1, HEX2, HEX3, HEX4, HEX5);
-	output logic [6:0] HEX0, HEX1, HEX2, HEX3, HEX4, HEX5;
-	input logic [6:0] HEX0, HEX1, HEX2, HEX3, HEX4, HEX5;
-	logic [6:0] iHEX0, iHEX1, iHEX2, iHEX3, iHEX4, iHEX5;
-	
-	not n0 (HEX0[6:0], invHEX0[6:0]);
-	
-endmodule

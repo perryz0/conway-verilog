@@ -1,2 +1,0 @@
-Warning (18236): Number of processors has not been specified which may cause overloading on shared machines.  Set the global assignment NUM_PARALLEL_PROCESSORS in your QSF to an appropriate value for best performance.
-Warning (10268): Verilog HDL information at updateLogic.sv(14): always construct contains both blocking and non-blocking assignments File: C:/UW Sophomore Year/UW Spring 2024 Software/E E 271/ee271labs/lab8 files/lab8 (AFTER WORKING GOL)/lab8-grid-counter-sims/updateLogic.sv Line: 14
